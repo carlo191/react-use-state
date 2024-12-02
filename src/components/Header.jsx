@@ -1,3 +1,3 @@
 export default function Header() {
-  return <h1 >Learning web development</h1>;
+  return <h1>Learn web development</h1>;
 }

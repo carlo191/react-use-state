@@ -1,4 +1,11 @@
 h1 {
   background-color: grey;
-  line-height: 50px;
+  line-height: 60px;
+}
+button {
+  margin: 2rem;
+}
+.card {
+  width: 75%;
+  margin: auto;
 }
