@@ -5,7 +5,7 @@ import Main from "./src/components/main";
 function App() {
   return (
     <>
-      <Header />
+      <Header/>
       <Main />
     </>
   );
